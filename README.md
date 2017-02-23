@@ -26,3 +26,7 @@ Each of the modules represents a continuining improvement on a blog website - a 
 If you run into anything, just give your coaches a shout - we'll be happy to help you.
 
 Good luck!
+
+## Contributing
+
+We always welcome Pull Requests to help improve our material and extend the content.
